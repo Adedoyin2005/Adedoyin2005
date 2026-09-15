@@ -10,9 +10,9 @@ My work sits between model calls and real operations: retrieving context, coordi
 
 A bounded AI research-and-drafting workflow built with FastAPI, React, Gemini, Jina Reader, and server-sent events. The backend validates public URLs, treats retrieved pages as untrusted input, validates structured model output, and keeps internal failures out of client responses.
 
-### Content Orchestration Showcase
+### [Content Orchestration Showcase](https://github.com/Adedoyin2005/content-orchestration-showcase)
 
-A clean, synthetic reference implementation of the control-plane patterns behind a private production content workflow: dependency-injected tools, source-grounded validation, approval gates, bounded retries, dry runs, and idempotent delivery state. Publish this repository, then replace this paragraph with its link.
+A clean, synthetic reference implementation of the control-plane patterns behind a private production content workflow: dependency-injected tools, source-grounded validation, approval gates, bounded retries, dry runs, and idempotent delivery state.
 
 ## What I optimize for
 
@@ -23,4 +23,3 @@ A clean, synthetic reference implementation of the control-plane patterns behind
 - Documentation that distinguishes shipped behavior from planned work
 
 I’m especially interested in agentic AI, workflow orchestration, developer tools, and production automation.
-
